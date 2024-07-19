@@ -3,9 +3,6 @@
   "version": "0.0.10",
   "description": "slack stream for bunyan",
   "main": "./lib/bunyan-slack",
-  "dependencies": {
-    "extend.js": "0.0.2"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/qualitybath/bunyan-slack"
